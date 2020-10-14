@@ -1,0 +1,5 @@
+{
+    "targeturl":"https://www.paypal.com/myaccount/summary",
+    "elementxpath":"/html/body/div[2]/section/div/div/div[1]/div/div[3]/div/div[2]/div/span[1]",
+    "newvalue":"1333373312371237 USD"
+}
