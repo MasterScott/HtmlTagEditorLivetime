@@ -4,6 +4,11 @@
 # Tool
 ![](https://i.ibb.co/Rj3wwQH/balance-gif.gif)
   
+# Config
+ targeturl -> Enter the url where the html tag is.
+ elementxpath -> Replace it with the html tag's xpath
+ newvalue -> Enter the new value of the html tag
+  
 # Legal
  The software designed to perform website security testing.<br/>
  The author is not responsible for any illegal use of these programs.<br/>
