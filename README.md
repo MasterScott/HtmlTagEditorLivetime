@@ -5,7 +5,6 @@
 ![](https://i.ibb.co/Rj3wwQH/balance-gif.gif)
   
 # Legal
- This is illegal if you use this without the consent of the owners (in this case, the Instagram team).<br/>
  The software designed to perform website security testing.<br/>
  The author is not responsible for any illegal use of these programs.<br/>
  I am not accountable for anything you get into.<br/>
