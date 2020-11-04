@@ -1,5 +1,10 @@
 # HtmlTagEditorLivetime
  This isn't one of my best written code.<br/>This tool is for editing html tag's text to a new value everytime when you are on the target page.
+
+# Installation
+```
+pip3 install -r requirements.txt
+``` 
  
 # Tool
 ![](https://i.ibb.co/Rj3wwQH/balance-gif.gif)
