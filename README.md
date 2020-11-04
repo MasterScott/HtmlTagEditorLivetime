@@ -1,4 +1,4 @@
-# html_tag_editor_livetime
+# HtmlTagEditorLivetime
  This isn't one of my best written code.<br/>This tool is for editing html tag's text to a new value everytime when you are on the target page.
  
 # Tool
