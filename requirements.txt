@@ -1,3 +1,1 @@
-selenium
-json
-os
+selenium==3.141.0
